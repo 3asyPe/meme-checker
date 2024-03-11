@@ -19,9 +19,9 @@ pip install -r requirements.txt
 
 ## Settings
 
-Input addresses (NOT PRIVATE KEYS!) in data/addresses.txt
+Input addresses (NOT PRIVATE KEYS!) in addresses.txt
 
-Input proxies in data/proxies.txt
+Input proxies in proxies.txt
 
 Read and configure script in settings.py
 
